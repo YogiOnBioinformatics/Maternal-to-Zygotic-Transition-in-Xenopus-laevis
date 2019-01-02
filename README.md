@@ -6,6 +6,21 @@
 
 **Files**
 
+`Maternal to Zygotic Transition in Xenopus Laevis.pdf`
+
+Final research paper which includes background, methods, figures and explanation. 
+
+`Research Presentation.pptx`
+
+PowerPoint presentation given which goes through results and significance of work. The presentation is filled with few words since most of the information was given orally. 
+
+`Research Presentation.pdf` 
+
+PDF file of presentation given to those who wanted to take notes. 
+
+`Supplementary Documentation.pdf`
+
+File containing all the **Bash and R** commands used to pull meaningful insight from the NGS data. 
 
 **Contact Information** 
 
