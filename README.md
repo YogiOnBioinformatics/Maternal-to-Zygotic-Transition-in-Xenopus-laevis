@@ -22,6 +22,10 @@ PDF file of presentation given to those who wanted to take notes.
 
 File containing all the **Bash and R** commands used to pull meaningful insight from the NGS data. 
 
+:open_file_folder: `Laevis Files/`
+
+Contains truncated or empty copies of all files used during analysis. **This is provided so that people can see the outputs and types of files that one must work with when doing this type of analysis.** 
+
 **Contact Information** 
 
 ![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
