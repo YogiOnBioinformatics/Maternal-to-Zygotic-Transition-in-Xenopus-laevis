@@ -24,7 +24,7 @@ File containing all the **Bash and R** commands used to pull meaningful insight 
 
 :open_file_folder: `Laevis Files/`
 
-Contains truncated or empty copies of all files used during analysis. **This is provided so that people can see the outputs and types of files that one must work with when doing this type of analysis.** 
+Contains **placeholders** of all files used during analysis. This is **provided to show files and file types created in the** `Supplementary Documentation.pdf`. This may also give a novice some understanding of what **files they would need to deal with in case they replicated this analysis.** 
 
 **Contact Information** 
 
