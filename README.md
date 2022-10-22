@@ -6,11 +6,11 @@
 
 **Files**
 
-:open_file_folder: `Publication/Maternal to Zygotic Transition in Xenopus Laevis.pdf`
+:open_file_folder: `Paper/Maternal to Zygotic Transition in Xenopus Laevis.pdf`
 
 Final research paper which includes background, methods, figures and explanation. 
 
-:open_file_folder: `Publication/Supplementary Documentation.pdf`
+:open_file_folder: `Paper/Supplementary Documentation.pdf`
 
 File containing all the **Bash and R** commands used to pull meaningful insight from the NGS data.
 
